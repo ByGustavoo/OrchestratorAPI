@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OrchestratorAPIApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+    <envs>
+      <env name="DATABASE_IP" value="localhost" />
+      <env name="DATABASE_NAME" value="orchestrator" />
+      <env name="DATABASE_PASSWORD" value="postgres" />
+      <env name="DATABASE_PORT" value="5432" />
+      <env name="DATABASE_USER" value="postgres" />
+    </envs>
+    <option name="INCLUDE_PROVIDED_SCOPE" value="false" />
+    <module name="OrchestratorAPI.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.wisetechnology.orchestrator.OrchestratorAPIApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
